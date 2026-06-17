@@ -1,0 +1,24 @@
+{
+  "name": "Training Log",
+  "short_name": "Training",
+  "description": "Three benchmark fitness tracker",
+  "start_url": "/fitness/",
+  "display": "standalone",
+  "background_color": "#080F18",
+  "theme_color": "#080F18",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
